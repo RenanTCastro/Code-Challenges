@@ -1,4 +1,5 @@
 # Code Challenges
+
 My solutions to coding problems on Leetcode and Codewars. This repositorie was inspired by the [deepaktalwardt repositorie](https://github.com/deepaktalwardt/interview-prep-cpp). I will be adding my solutions to this repository every day starting July 10, 2022.
 
 __Difficulty Levels solved__
@@ -30,3 +31,5 @@ Adding solutions to all problems I have already completed before
 12. :large_blue_circle: [Array diff](Codewars/6%20kyu/array-diff.js)
 13. :large_blue_circle::star: [Count the simley faces](Codewars/6%20kyu/count-the-smiley-faces.js)
 14. :large_blue_circle: [Who likes it](Codewars/6%20kyu/who-likes-it.js)
+
+1.  :green_circle: [Convert number to a string](Codewars/8%20kyu/convert-a-number-to-a-string.js)

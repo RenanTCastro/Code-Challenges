@@ -6,4 +6,6 @@
 // "1234"   -->  true
 // "12345"  -->  false
 // "a234"   -->  false
-
+function validatePIN (pin) {
+    return((pin.length == 4 ||  pin.length == 6) && parseInt(pin) >= 0 && !(/[^0-9]/.test(pin)))
+}
