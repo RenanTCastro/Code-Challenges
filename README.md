@@ -32,4 +32,9 @@ Adding solutions to all problems I have already completed before
 13. :large_blue_circle::star: [Count the simley faces](Codewars/6%20kyu/count-the-smiley-faces.js)
 14. :large_blue_circle: [Who likes it](Codewars/6%20kyu/who-likes-it.js)
 
-1.  :green_circle: [Convert number to a string](Codewars/8%20kyu/convert-a-number-to-a-string.js)
+## Day 2
+
+#### LeetCode
+
+1.  :green_circle: [Two sum](LeetCode/Easy/two-sum.js) 
+2.  :green_circle: [Palindrome number](LeetCode/Easy/palindrome-number.js) 
